@@ -1,0 +1,20 @@
+[
+  {
+    "id": "26aa49fa",
+    "title": "Repair Tablet",
+    "description": "aertui",
+    "date": "2025-04-04",
+    "amount": 0.0,
+    "category": "Food",
+    "transaction_type": "Income"
+  },
+  {
+    "id": "5f72a473",
+    "title": "Cook",
+    "description": "Cook good",
+    "date": "2025-04-04",
+    "amount": 0.7,
+    "category": "Food",
+    "transaction_type": "Income"
+  }
+]
